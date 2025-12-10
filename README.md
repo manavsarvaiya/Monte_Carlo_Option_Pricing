@@ -38,7 +38,7 @@ The Quantum Option Pricing Platform is an advanced Monte Carlo simulation tool f
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/yourusername/quantum-option-pricing.git
+git clone https://github.com/manavsarvaiya/Monte_Carlo_Option_Pricing.git
 cd quantum-option-pricing
 ```
 
